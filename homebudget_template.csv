@@ -1,0 +1,42 @@
+Date,Category,SubCategory,Expense Amount,Account,Payee,Notes,Device
+2015-12-10,"Food/Groceries","Restaurant/Fast food","     10.00","","","","Phone"
+2015-12-10,"Entertainment","Movies","     22.00","Rbs","","","Phone"
+
+Date,Description,Income Amount,Account,Notes,Device
+2015-12-10,"Pt","     40.00","Cash","","Phone"
+
+Category,SubCategory,Budget Amount,Expense Amount,Balance
+Home/Rent,Mortgage,      0.00,      0.00,      0.00
+Home/Rent,Mortgage-2nd,      0.00,      0.00,      0.00
+Home/Rent,Rent,      0.00,      0.00,      0.00
+Home/Rent,Association fee,      0.00,      0.00,      0.00
+Home/Rent,Property tax,      0.00,      0.00,      0.00
+Utilities,Electricity,      0.00,      0.00,      0.00
+Utilities,Gas/Heating,      0.00,      0.00,      0.00
+Utilities,Telephone,      0.00,      0.00,      0.00
+Utilities,CellPhone,      0.00,      0.00,      0.00
+Utilities,Internet,      0.00,      0.00,      0.00
+Utilities,Cable/Dish,      0.00,      0.00,      0.00
+Utilities,Water,      0.00,      0.00,      0.00
+Utilities,Garbage,      0.00,      0.00,      0.00
+Food/Groceries,Groceries,      0.00,      0.00,      0.00
+Food/Groceries,Restaurant/Fast food,      0.00,     10.00,    -10.00
+Departmental,Clothing,      0.00,      0.00,      0.00
+Departmental,Personal items,      0.00,      0.00,      0.00
+Departmental,Kids/Toys,      0.00,      0.00,      0.00
+Departmental,Books/Magazines,      0.00,      0.00,      0.00
+Entertainment,Movies,      0.00,     22.00,    -22.00
+Entertainment,DVD rental,      0.00,      0.00,      0.00
+Entertainment,Music,      0.00,      0.00,      0.00
+Car/Auto,Gasoline,      0.00,      0.00,      0.00
+Car/Auto,Auto Loan,      0.00,      0.00,      0.00
+Car/Auto,Oil Change,      0.00,      0.00,      0.00
+Insurance/Medical,Insurance - Auto,      0.00,      0.00,      0.00
+Insurance/Medical,Insurance - Home,      0.00,      0.00,      0.00
+Insurance/Medical,Insurance - Medical,      0.00,      0.00,      0.00
+Insurance/Medical,Medical Expenses/Co-pay,      0.00,      0.00,      0.00
+Misc/One-time,Air tickets,      0.00,      0.00,      0.00
+Misc/One-time,Hotel/Lodging,      0.00,      0.00,      0.00
+Misc/One-time,Gifts/Charity,      0.00,      0.00,      0.00
+
+Date,From,To,Amount,Notes,Device

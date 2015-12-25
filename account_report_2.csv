@@ -1,0 +1,42 @@
+Rbs
+Current 
+Date,Description,Amount,Balance,Notes
+2013-10-01,"Opening Balance","    102.00","    102.00",""
+2015-12-01,"Set balance", "    102.00", "    102.00",""
+2015-12-10,"Movies", "    -22.00", "     80.00",""
+2015-12-12,"Gifts/Charity", "     -4.99", "     75.01",""
+2015-12-12,"Misc ", "     -3.00", "     72.01","Ribbon "
+2015-12-12,"Restaurant/Fast food", "    -16.70", "     55.31",""
+2015-12-12,"Snack / Sweets", "     -5.17", "     50.14",""
+2015-12-12,"Night Out", "    -12.00", "     38.14",""
+2015-12-13,"Groceries", "     -8.58", "     29.56",""
+2015-12-14,"Electronics", "    -34.98", "     -5.42",""
+2015-12-14,"Bike", "    -69.98", "    -75.40",""
+2015-12-14,"Restaurant/Fast food", "     -5.29", "    -80.69",""
+2015-12-16,"Groceries", "     -7.50", "    -88.19",""
+2015-12-16,"Salary ", "   2982.97", "   2894.78",""
+2015-12-31,"Closing Balance","   2894.78","   2894.78",""
+
+
+Rbs Saving 
+Current 
+Date,Description,Amount,Balance,Notes
+2013-10-01,"Opening Balance","   1222.00","   1222.00",""
+2015-12-01,"Set balance", "   1222.00", "   1222.00",""
+2015-12-31,"Closing Balance","   1222.00","   1222.00",""
+
+
+Cash
+Current 
+Date,Description,Amount,Balance,Notes
+2013-10-01,"Opening Balance","     40.00","     40.00",""
+2015-12-01,"Set balance", "     40.00", "     40.00",""
+2015-12-10,"Pt", "     40.00", "     80.00",""
+2015-12-12,"Gifts/Charity", "     -2.00", "     78.00",""
+2015-12-15,"Groceries", "     -8.99", "     69.01","Coconut Aminos"
+2015-12-15,"Restaurant/Fast food", "     -6.15", "     62.86","Burrito "
+2015-12-31,"Closing Balance","     62.86","     62.86",""
+
+
+
+
